@@ -1,0 +1,7 @@
+1.0.2 2024-01-24
+  - Fixed one incorrect event description
+1.0.1 2024-01-24
+  - Added missing events to events json files
+  - Added missing events to analysis_01_bidsify.m
+1.0.0 2022-06-07
+  - Initial release.
